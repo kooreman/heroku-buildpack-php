@@ -80,7 +80,7 @@ mkdir -p $COMPOSER_HOME
 status "Bootstrapping..."
 
 # s3_url="https://lang-php.s3.amazonaws.com/dist-${STACK}-stable/"
-s3_url="https://app.kooremanpsychologie.nl/"
+s3_url="https://app.kooremanpsychologie.nl/heroku/"
 
 
 # prepend the default repo to the list configured by the user
